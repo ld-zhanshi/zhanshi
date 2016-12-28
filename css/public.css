@@ -1,0 +1,34 @@
+a{
+	text-decoration:none;
+}
+*{
+	font-size:.24rem;
+    font-family:"Microsoft Yahei";
+}
+* img{
+	border:none;
+}
+body,p,pre,ul,ol,li,form,a,table,dd,input,h1,h2,h3,h4,h5,h6{
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+body{
+    background: #f5f6fa;
+}
+/*页脚*/
+.lrc_footer{
+    width:100%;
+    height:1rem;
+    background:#f5f6fa;
+    text-align: center;
+    line-height: 0.5rem;
+    font-family: "微软雅黑";
+    font-size: .2rem;
+    margin:.2rem 0;
+}
+.lrc_one,.lrc_two{
+    width:auto;
+    height:0.5rem;
+    margin:0 auto;
+}
